@@ -1,6 +1,6 @@
 #! /bin/bash
 
-FAPATH=/home/martin/temp/forester-svcomp
+FAPATH=/home/martin/forester
 
 for k in `cat /home/martin/forester/fa/sv-comp/c/$1.set`
 do

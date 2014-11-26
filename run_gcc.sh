@@ -1,7 +1,7 @@
 #! /bin/bash
 
-GCC=/usr/bin/gcc-4.6
-FAPATH=/home/martin/temp/forester-svcomp
+GCC=/usr/bin/gcc-4.9
+FAPATH=/home/martin/forester
 
 for k in `cat /home/martin/forester/fa/sv-comp/c/$1.set`
 do
