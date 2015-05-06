@@ -66,4 +66,4 @@ for l in f:
         points += evalRes(name, l)
     i = (i+1)%3
 
-print "Dead Palestinian:",points, "Dead Jews:",allpoints
+print "["+str(points)+"/"+str(allpoints)+"]"
